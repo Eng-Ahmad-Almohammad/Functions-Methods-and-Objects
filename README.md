@@ -7,3 +7,4 @@
 ![several objects](https://user-images.githubusercontent.com/70091044/93028279-74105a00-f61b-11ea-9167-bf512ad834e0.PNG)
 ## reating an instance of the date object
 ### In order to work with dates, you creat an instance of the *Date* object. Y can then specify the time and date you want it to represent.
+![Date](https://user-images.githubusercontent.com/70091044/93028720-50024800-f61e-11ea-88a1-285233daa48e.PNG)
